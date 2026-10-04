@@ -1,0 +1,3 @@
+PRODUCT;Зошит в клітинку;Канцелярія;28;100
+PRODUCT;Іграшки;Дитячі;70;150
+CUSTOMER;Anna; anna@gmail.com
